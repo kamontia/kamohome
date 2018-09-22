@@ -1,0 +1,25 @@
+{
+  "name": "kamohome",
+  "version": "1.0.0",
+  "description": "kamohome-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kamontia/kamohome.git"
+  },
+  "keywords": [
+    "kamohome"
+  ],
+  "author": "Tatsuya Kamohara",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kamontia/kamohome/issues"
+  },
+  "homepage": "https://github.com/kamontia/kamohome#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
